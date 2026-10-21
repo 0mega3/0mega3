@@ -1,16 +1,24 @@
-## Hi there 👋
+![cover](assets/quantcover_80s_extrude_4k.png)
 
-<!--
-**0mega3/0mega3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Denis Khorkin 👋
 
-Here are some ideas to get you started:
+Quantitative developer focused on algorithmic trading and derivatives:
+options, futures, volatility.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on Quant Terminal — a trading terminal in C++ and Qt.
+
+🌱 Currently learning TimescaleDB.
+
+## Tech Stack
+
+- **Languages:** C++, Erlang/OTP, SQL
+- **OS:** Linux
+- **DB:** PostgreSQL
+- **Frameworks:** Qt
+- **Tools:** Vim, Git, Rebar3, CMake, Conan
+
+## Education
+
+- Lobachevsky State University of Nizhny Novgorod —
+Master of Applied Computer Science (MACS)
+- S.Y. Witte Moscow University — Bachelor of Economics (BEC)
